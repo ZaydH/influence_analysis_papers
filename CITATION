@@ -1,0 +1,9 @@
+@article{Hammoudeh:2022:InfluenceSurvey,
+  author = {Zayd Hammoudeh and
+            Daniel Lowd},
+  title = {Training Data Influence Analysis and Estimation: A Survey},
+  archivePrefix = {arXiv},
+  eprint = {2212.04612},
+  primaryClass = {cs.LG},
+  year = {2022},
+}
