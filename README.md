@@ -39,6 +39,13 @@ If you found this repo or survey is useful, please cite our paper as follows:
 
 ## Retraining-Based Methods
 
+#### 2023
+
+- FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs
+  [[link]](https://openreview.net/forum?id=mJF9_Fs52ut)
+  [[code]](https://github.com/kangmintong/FaShapley)
+  - Mintong Kang, Linyi Li, and Bo Li. *SaTML*, 2023.
+
 #### 2022
 
 - Measuring the Effect of Training Data on Deep Learning Predictions via Randomized Experiments
