@@ -41,6 +41,14 @@ If you found this repo or survey is useful, please cite our paper as follows:
 
 #### 2023
 
+- A Note on "Towards Efficient Data Valuation Based on the Shapley Value"
+  [[link]](https://arxiv.org/abs/2302.11431)
+  - Jiachen Wang and Ruoxi Jia. 2023.
+<br><br>
+- Data Banzhaf:  A Robust Data Valuation Framework for Machine Learning
+  [[link]](https://arxiv.org/abs/2205.15466)
+  - Tianhao Wang, Tianhao and Ruoxi Jia, *AISTATS*, 2023.
+<br><br>
 - FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs
   [[link]](https://openreview.net/forum?id=mJF9_Fs52ut)
   [[code]](https://github.com/kangmintong/FaShapley)
@@ -57,6 +65,10 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[code]](https://github.com/ykwon0407/beta_shapley)
   [[video]](https://slideslive.com/38980844/beta-shapley-a-unified-and-noisereduced-data-valuation-framework-for-machine-learning?ref=speaker-30723)
   - Yongchan Kwon and James Zou. *AISTATS*, 2022.
+<br><br>
+- Private Data Valuation and Fair Payment in Data Marketplaces
+  [[link]](https://arxiv.org/abs/2210.08723)
+  - Zhihua Tian, Jian Liu, Jingyu Li, Xinle Cao, Ruoxi Jia, Jun Kong, Mengdi Liu, and Kui Ren. 2022.
 
 #### 2021
 
@@ -87,6 +99,18 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[code]](https://github.com/google-research/heldout-influence-estimation)
   [[video]](https://www.youtube.com/watch?v=XTRMSYRVBmU)
   - Vitaly Feldman and Chiyuan Zhang. *NeurIPS*, 2020.
+<br><br>
+- Data Valuation using Reinforcement Learning
+  [[link]](https://arxiv.org/abs/1909.11671)
+  [[code]](https://github.com/google-research/google-research/tree/master/dvrl)
+  [[video]](https://slideslive.com/38928006)
+  - Jinsung Yoon, Sercan Arik, and Tomas Pfister. *ICML*, 2020.
+<br><br>
+- A Distributional Framework for Data Valuation
+  [[link]](https://arxiv.org/abs/2002.12334)
+  [[code]](https://github.com/amiratag/DistributionalShapley)
+  [[video]](https://slideslive.com/38928367)
+  - Amirata Ghorbani, Michael P. Kim, and James Zou. *ICML*, 2020.
 <br><br>
 - Does Learning Require Memorization? A Short Tale about a Long Tail
   [[link]](https://arxiv.org/abs/1906.05271)
