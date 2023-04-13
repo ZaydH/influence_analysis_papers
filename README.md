@@ -33,7 +33,7 @@ If you found this repo or survey is useful, please cite our paper as follows:
 
 ## Survey
 
-- Training-Set Influence Analysis and Estimation: A Survey
+- Training Data Influence Analysis and Estimation: A Survey
   [[link]](https://arxiv.org/abs/2212.04612)
   - Zayd Hammoudeh and Daniel Lowd. 2022.
 
@@ -41,13 +41,22 @@ If you found this repo or survey is useful, please cite our paper as follows:
 
 #### 2023
 
+- A Note on "Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms"
+  [[link]](https://arxiv.org/abs/2304.04258)
+  - Jiachen T. Wang and Ruoxi Jia. 2023.
+<br><br>
 - A Note on "Towards Efficient Data Valuation Based on the Shapley Value"
   [[link]](https://arxiv.org/abs/2302.11431)
-  - Jiachen Wang and Ruoxi Jia. 2023.
+  - Jiachen T. Wang and Ruoxi Jia. 2023.
 <br><br>
 - Data Banzhaf:  A Robust Data Valuation Framework for Machine Learning
   [[link]](https://arxiv.org/abs/2205.15466)
-  - Tianhao Wang, Tianhao and Ruoxi Jia, *AISTATS*, 2023.
+  - Jiachen T. Wang and Ruoxi Jia. *AISTATS*, 2023.
+<br><br>
+- ModelPred: A Framework for Predicting Trained Model from Training Data
+  [[link]](https://arxiv.org/abs/2111.12545)
+  [[video]](https://www.youtube.com/watch?v=RtY0sYaZ0_w)
+  - Yingyan Zeng, Jiachen T. Wang, Si Chen, Hoang Anh Just, Ran Jin, and Ruoxi Jia. *SaTML*, 2023.
 <br><br>
 - FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs
   [[link]](https://openreview.net/forum?id=mJF9_Fs52ut)
@@ -126,6 +135,7 @@ If you found this repo or survey is useful, please cite our paper as follows:
 <br><br>
 - Towards Efficient Data Valuation Based on the Shapley Value
   [[link]](https://arxiv.org/abs/1902.10275)
+  [[technical note]](https://arxiv.org/abs/2302.11431)
   - Ruoxi Jia, David Dao, Boxin Wang, Frances Ann Hubis, Nick Hynes, Nezihe Merve Gurel, Bo Li, Ce Zhang, Dawn Song, and Costas J. Spanos. *AISTATS*, 2019.
 
 #### 2016
@@ -333,6 +343,7 @@ If you found this repo or survey is useful, please cite our paper as follows:
 - Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms
   [[link]](http://www.vldb.org/pvldb/vol12/p1610-jia.pdf)
   [[code]](https://github.com/AI-secure/KNN-PVLDB)
+  [[technical note]](https://arxiv.org/pdf/2304.04258.pdf)
   - Ruoxi Jia, David Dao, Boxin Wang, Frances Ann Hubis, Nezihe Merve Gurel, Bo Li, Ce Zhang, Costas J. Spanos, and Dawn Song. *PVLDB*, 2019.
 
 #### 2018
