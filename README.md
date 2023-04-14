@@ -65,6 +65,11 @@ If you found this repo or survey is useful, please cite our paper as follows:
 
 #### 2022
 
+- Datamodels: Predicting Predictions from Training Data
+  [[link]](https://arxiv.org/abs/2202.00622)
+  [[blog]](https://gradientscience.org/datamodels-1/)
+  [[data]](https://github.com/MadryLab/datamodels-data)
+  - Andrew Ilyas, Sung Min Park, Logan Engstrom, Guillaume Leclerc, and Aleksander Madry. *ICML*, 2022.
 - Measuring the Effect of Training Data on Deep Learning Predictions via Randomized Experiments
   [[link]](https://arxiv.org/abs/2206.10013)
   - Jinkun Lin, Anqi Zhang, Mathias Lecuyer, Jinyang Li, Aurojit Panda, and Siddhartha Sen. *ICML*, 2022.
@@ -167,6 +172,13 @@ If you found this repo or survey is useful, please cite our paper as follows:
   - Lloyd S. Shapley. *Contributions to the Theory of Games II*, 1953.
 
 ## Gradient-Based Estimators
+
+#### 2023
+
+- TRAK: Attributing Model Behavior at Scale
+  [[link]](https://arxiv.org/abs/2303.14186)
+  [[code]](https://github.com/MadryLab/trak)
+  - Sung Min Park, Kristian Georgiev, Andrew Ilyas, Guillaume Leclerc, and Aleksander Madry. 2023.
 
 #### 2022
 
