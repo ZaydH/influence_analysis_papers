@@ -441,6 +441,12 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[code]](https://github.com/brandeis-machine-learning/influence-fairness)
   - Peizhao Li and Hongfu Liu. *ICML*, 2022.
 <br><br>
+- An Empirical Comparison of Instance Attribution Methods for NLP
+  [[link]](https://arxiv.org/abs/2104.04128)
+  [[video]](https://www.youtube.com/watch?v=b9AbcEDmFyg)
+  [[code]](https://github.com/successar/instance_attributions_NLP)
+  - Pouya Pezeshkpour, Sarthak Jain, Byron C. Wallace, and Sameer Singh. *NAACL*, 2021.
+<br><br>
 - Leave-One-Out Unfairness
   [[link]](https://arxiv.org/abs/2107.10171)
   [[video]](https://www.youtube.com/watch?v=vbi8bqHFoyo)
