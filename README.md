@@ -343,12 +343,12 @@ If you found this repo or survey is useful, please cite our paper as follows:
 
 ## Non-Parametric Methods
 
-#### 2022
+#### 2023
 
 - Adapting and Evaluating Influence-Estimation Methods for Gradient-Boosted Decision Trees
   [[link]](https://arxiv.org/abs/2205.00359)
   [[code]](https://github.com/jjbrophy47/tree_influence)
-  - Jonathan Brophy, Zayd Hammoudeh, and Daniel Lowd.
+  - Jonathan Brophy, Zayd Hammoudeh, and Daniel Lowd. *JMLR*, 2023.
 
 #### 2019
 
