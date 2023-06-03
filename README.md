@@ -1,4 +1,4 @@
-# Training Data Influence Analysis &amp; Estimation Resources
+## Training Data Influence Analysis &amp; Estimation Resources
 
 [![paper](https://img.shields.io/badge/Paper-arxiv-b31b1b)](https://arxiv.org/abs/2212.04612)
 
@@ -8,7 +8,7 @@ For a full taxonomy and comparison of training-set influence analysis methods an
 We will regularly update this repository as new research is published.
 To have your paper included in this repository, you can send me an email at [zayd.hammoudeh@gmail.com](mailto:zayd.hammoudeh@gmail.com), submit a [pull request](https://github.com/ZaydH/influence_analysis_survey/pulls), or fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdrJ4vM3HLmQzqHaosWgmdBJwRj5M9qFY6m_iJ2CbmdPQpH9Q/viewform" target="_blank">Google form</a>.
 
-### What is Training Data Influence Analysis?
+## What is Training Data Influence Analysis?
 
 *Influence analysis* studies how to apportion credit (and blame) for specific model behavior to individual or groups of training instances.  Important tasks that influence analysis contribute to include:
 * Understanding why a trained model behaves in a specific way
@@ -16,6 +16,7 @@ To have your paper included in this repository, you can send me an email at [zay
 * Determining whether a prediction is well supported by the training set
 
 ## Citation
+
 
 If you found this repo or survey is useful, please cite our paper as follows:
 
@@ -37,9 +38,13 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[link]](https://arxiv.org/abs/2212.04612)
   - Zayd Hammoudeh and Daniel Lowd. 2022.
 
+
 ## Retraining-Based Methods
 
-#### 2023
+**Click on the arrow** next to the year show/hide the corresponding papers.
+
+<details open>
+<summary>2023</summary>
 
 - A Bayesian Perspective On Training Data Attribution
   [[link]](https://arxiv.org/abs/2305.19765)
@@ -67,7 +72,9 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[code]](https://github.com/kangmintong/FaShapley)
   - Mintong Kang, Linyi Li, and Bo Li. *SaTML*, 2023.
 
-#### 2022
+</details>
+<details open>
+<summary>2022</summary>
 
 - Datamodels: Predicting Predictions from Training Data
   [[link]](https://arxiv.org/abs/2202.00622)
@@ -88,7 +95,9 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[link]](https://arxiv.org/abs/2210.08723)
   - Zhihua Tian, Jian Liu, Jingyu Li, Xinle Cao, Ruoxi Jia, Jun Kong, Mengdi Liu, and Kui Ren. 2022.
 
-#### 2021
+</details>
+<details open>
+<summary>2021</summary>
 
 - Counterfactual Memorization in Neural Language Models
   [[link]](https://arxiv.org/abs/2112.12938)
@@ -110,7 +119,9 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[code]](https://github.com/AI-secure/Shapley-Study)
   - Ruoxi Jia, Fan Wu, Xuehui Sun, Jiacen Xu, David Dao, Bhavya Kailkhura, Ce Zhang, Bo Li, and Dawn Song. *CVPR*, 2021.
 
-#### 2020
+</details>
+<details open>
+<summary>2020</summary>
 
 - What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation
   [[link]](https://arxiv.org/abs/2008.03703)
@@ -134,7 +145,9 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[link]](https://arxiv.org/abs/1906.05271)
   - Vitaly Feldman. *STOC*, 2020.
 
-#### 2019
+</details>
+<details open>
+<summary>2019</summary>
 
 - Data Shapley: Equitable Valuation of Data for Machine Learning
   [[link]](https://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf)
@@ -147,13 +160,17 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[technical note]](https://arxiv.org/abs/2302.11431)
   - Ruoxi Jia, David Dao, Boxin Wang, Frances Ann Hubis, Nick Hynes, Nezihe Merve Gurel, Bo Li, Ce Zhang, Dawn Song, and Costas J. Spanos. *AISTATS*, 2019.
 
-#### 2016
+</details>
+<details open>
+<summary>2016</summary>
 
 - "Influence Sketching": Finding Influential Samples in Large-Scale Regressions
   [[link]](https://arxiv.org/abs/1611.05923)
   - Mike Wojnowicz, Ben Cruz, Xuan Zhao, Brian Wallace, Matt Wolff, Jay Luan, Caleb Crable. *BigData*, 2016.
 
-#### Older
+</details>
+<details open>
+<summary>Older</summary>
 
 - The Shapley Value: Essays in Honor of Lloyd S. Shapley
   [[link]](http://www.library.fa.ru/files/roth2.pdf)
@@ -175,16 +192,23 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[link]](https://www.rand.org/pubs/papers/P295.html)
   - Lloyd S. Shapley. *Contributions to the Theory of Games II*, 1953.
 
+</details>
+
 ## Gradient-Based Estimators
 
-#### 2023
+**Click on the arrow** next to the year show/hide the corresponding papers.
+
+<details open>
+<summary>2023</summary>
 
 - TRAK: Attributing Model Behavior at Scale
   [[link]](https://arxiv.org/abs/2303.14186)
   [[code]](https://github.com/MadryLab/trak)
-  - Sung Min Park, Kristian Georgiev, Andrew Ilyas, Guillaume Leclerc, and Aleksander Madry. 2023.
+  - Sung Min Park, Kristian Georgiev, Andrew Ilyas, Guillaume Leclerc, and Aleksander Madry. *ICML*, 2023.
 
-#### 2022
+</details>
+<details open>
+<summary>2022</summary>
 
 - Identifying a Training-Set Attack’s Target Using Renormalized Influence Estimation
   [[link]](https://arxiv.org/abs/2201.10055)
@@ -224,7 +248,9 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[code]](https://github.com/TracInAD/TracInAD)
   - Hugo Thimonier, Fabrice Popineau, Arpad Rimmel, Bich-Liˆen Doan, and Fabrice Daniel. *IJCNN*, 2021.
 
-#### 2021
+</details>
+<details open>
+<summary>2021</summary>
 
 - Influence Functions in Deep Learning Are Fragile
   [[link]](https://openreview.net/forum?id=xHKVVHGDOEk)
@@ -281,7 +307,9 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[code]](https://github.com/ZaydH/target_identification)
   - Zayd Hammoudeh and Daniel Lowd. *UDL*, 2021.
 
-#### 2020
+</details>
+<details open>
+<summary>2020</summary>
 
 - Estimating Training Data Influence by Tracing Gradient Descent
   [[link]](https://arxiv.org/abs/2002.08484)
@@ -304,7 +332,9 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[slides]](https://soskek.github.io/publications/sustainlp2020_video_slide.pdf)
   - Sosuke Kobayashi, Sho Yokoi, Jun Suzuki, and Kentaro Inui. *SustaiNLP*, 2020.
 
-#### 2019
+</details>
+<details open>
+<summary>2019</summary>
 
 - On the Accuracy of Influence Functions for Measuring Group Effects
   [[link]](https://arxiv.org/abs/1905.13289)
@@ -316,14 +346,18 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[code]](https://github.com/sato9hara/sgd-influence)
   - Satoshi Hara, Atsushi Nitanda, and Takanori Maehara. *NeurIPS*, 2019.
 
-#### 2018
+</details>
+<details open>
+<summary>2018</summary>
 
 - Representer Point Selection for Explaining Deep Neural Networks
   [[link]](https://arxiv.org/abs/1811.09720)
   [[code]](https://github.com/chihkuanyeh/Representer_Point_Selection)
   - Chih-Kuan Yeh, Joon Sik Kim, Ian E.H. Yen, and Pradeep Ravikumar. *NeurIPS*, 2018.
 
-#### 2017
+</details>
+<details open>
+<summary>2017</summary>
 
 - Understanding Black-box Predictions via Influence Functions
   [[link]](https://arxiv.org/abs/1703.04730)
@@ -335,7 +369,9 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[link]](https://arxiv.org/abs/1706.05394)
   - Devansh Arpit, Stanislaw Jastrzebski, Nicolas Ballas, David Krueger, Emmanuel Bengio, Maxinder S. Kanwal, Tegan Maharaj, Asja Fischer, Aaron Courville, Yoshua Bengio, and Simon Lacoste-Julien. *ICML*, 2017.
 
-#### Older
+</details>
+<details open>
+<summary>Older</summary>
 
 - The Influence Curve and its Role in Robust Estimation
   [[link]](https://www.jstor.org/stable/2285666)
@@ -345,16 +381,25 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[link]](https://faculty.washington.edu/fscholz/Reports/InfinitesimalJackknife.pdf)
   - Louis A. Jaeckel. 1972.
 
+</details>
+
+
 ## Non-Parametric Methods
 
-#### 2023
+**Click on the arrow** next to the year show/hide the corresponding papers.
+
+<details open>
+<summary>2023</summary>
+
 
 - Adapting and Evaluating Influence-Estimation Methods for Gradient-Boosted Decision Trees
   [[link]](https://arxiv.org/abs/2205.00359)
   [[code]](https://github.com/jjbrophy47/tree_influence)
   - Jonathan Brophy, Zayd Hammoudeh, and Daniel Lowd. *JMLR*, 2023.
 
-#### 2019
+</details>
+<details open>
+<summary>2019</summary>
 
 - Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms
   [[link]](http://www.vldb.org/pvldb/vol12/p1610-jia.pdf)
@@ -362,17 +407,23 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[technical note]](https://arxiv.org/pdf/2304.04258.pdf)
   - Ruoxi Jia, David Dao, Boxin Wang, Frances Ann Hubis, Nezihe Merve Gurel, Bo Li, Ce Zhang, Costas J. Spanos, and Dawn Song. *PVLDB*, 2019.
 
-#### 2018
+</details>
+<details open>
+<summary>2018</summary>
 
 - Finding Influential Training Samples for Gradient Boosted Decision Trees
   [[link]](https://arxiv.org/abs/1802.06640)
   [[code]](https://github.com/bsharchilev/influence_boosting)
   - Boris Sharchilev, Yury Ustinovskiy, Pavel Serdyukov, and Maarten de Rijke. *ICML*, 2018.
 
+</details>
 
 ## Applications of Influence Analysis
 
-### Active Learning
+**Click on the arrow** next to the year show/hide the corresponding papers.
+
+<details open>
+<summary>Active Learning</summary>
 
 - Influence Selection for Active Learning
   [[link]](https://arxiv.org/abs/2108.09331)
@@ -384,7 +435,9 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[code]](https://github.com/zwt233/RIM)
   - Wentao Zhang, Yexin Wang, Zhenbang You, Meng Cao, Ping Huang, Jiulong Shan, Zhi Yang, and Bin Cui. *NeurIPS*, 2021.
 
-### Adversarial Attacks
+</details>
+<details open>
+<summary>Adversarial Attacks</summary>
 
 - Membership Inference Attack Using Self Influence Functions
   [[link]](https://arxiv.org/abs/2205.13680)
@@ -395,7 +448,9 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[link]](https://arxiv.org/abs/2002.08025)
   - Minghong Fang, Neil Zhenqiang Gong, and Jia Liu. *WWW*, 2020.
 
-### Adversarial Defenses
+</details>
+<details open>
+<summary>Adversarial Defenses</summary>
 
 - Identifying a Training-Set Attack’s Target Using Renormalized Influence Estimation
   [[link]](https://arxiv.org/abs/2201.10055)
@@ -408,7 +463,9 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[code]](https://github.com/giladcohen/NNIF_adv_defense)
   - Gilad Cohen, Guillermo Sapiro, and Raja Giryes. *CVPR*, 2020.
 
-### Data Augmentation 
+</details>
+<details open>
+<summary>Data Augmentation </summary>
 
 - Influence-guided Data Augmentation for Neural Tensor Completion
   [[link]](https://arxiv.org/pdf/2108.10248.pdf)
@@ -420,7 +477,10 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[video]](https://www.youtube.com/watch?v=tfsyJuTqaKo)
   - Donghoon Lee, Hyunsin Park, Trung Pham, and Chang D. Yoo. *CVPR*, 2020.
 
-### Data Cleaning
+
+</details>
+<details open>
+<summary>Data Cleaning</summary>
 
 - Resolving Training Biases via Influence-based Data Relabeling
   [[link]](https://openreview.net/forum?id=EskfH0bwNVn)
@@ -438,7 +498,10 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[video]](https://slideslive.com/38939156/fortifying-toxic-speech-detectors-against-veiled-toxicity)
   - Xiaochuang Han and Yulia Tsvetkov. *EMNLP*, 2020.
 
-### Fairness and Explainability
+
+</details>
+<details open>
+<summary>Fairness and Explainability</summary>
 
 - Achieving Fairness at No Utility Cost via Data Reweighing with Influence
   [[link]](https://arxiv.org/abs/2202.00787)
@@ -465,7 +528,9 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[video]](https://slideslive.com/38930122/relatif-identifying-explanatory-training-samples-via-relative-influence?ref=speaker-24253-latest)
   - Elnaz Barshan, Marc-Etienne Brunet, and Gintare Karolina Dziugaite. *AISTATS*, 2020.
 
-### Subsampling
+</details>
+<details open>
+<summary>Subsampling</summary>
 
 - Less Is Better: Unweighted Data Subsampling via Influence Function
   [[link]](https://arxiv.org/abs/1912.01321)
@@ -475,6 +540,9 @@ If you found this repo or survey is useful, please cite our paper as follows:
 - Optimal Subsampling with Influence Functions
   [[link]](https://arxiv.org/abs/1709.01716)
   - Daniel Ting and Eric Brochu. *NeurIPS*, 2018.
+
+
+</details>
 
 ## Credits
 
