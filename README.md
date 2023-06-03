@@ -41,6 +41,10 @@ If you found this repo or survey is useful, please cite our paper as follows:
 
 #### 2023
 
+- A Bayesian Perspective On Training Data Attribution
+  [[link]](https://arxiv.org/abs/2305.19765)
+  - Elisa Nguyen, Minjoon Seo, and Seong Joon Oh. 2023.
+<br><br>
 - A Note on "Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms"
   [[link]](https://arxiv.org/abs/2304.04258)
   - Jiachen T. Wang and Ruoxi Jia. 2023.
