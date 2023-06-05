@@ -18,7 +18,7 @@ To have your paper included in this repository, you can send me an email at [zay
 ## Citation
 
 
-If you found this repo or survey is useful, please cite our paper as follows:
+If you found this repo or our survey useful, please cite our paper as follows:
 
 ```
 @article{Hammoudeh:2022:InfluenceSurvey,
@@ -81,6 +81,7 @@ If you found this repo or survey is useful, please cite our paper as follows:
   [[blog]](https://gradientscience.org/datamodels-1/)
   [[data]](https://github.com/MadryLab/datamodels-data)
   - Andrew Ilyas, Sung Min Park, Logan Engstrom, Guillaume Leclerc, and Aleksander Madry. *ICML*, 2022.
+<br><br>
 - Measuring the Effect of Training Data on Deep Learning Predictions via Randomized Experiments
   [[link]](https://arxiv.org/abs/2206.10013)
   - Jinkun Lin, Anqi Zhang, Mathias Lecuyer, Jinyang Li, Aurojit Panda, and Siddhartha Sen. *ICML*, 2022.
@@ -202,7 +203,7 @@ If you found this repo or survey is useful, please cite our paper as follows:
 <summary>2023</summary>
 
 - Representer Point Selection for Explaining Regularized High-dimensional Models
-  [[link](https://arxiv.org/abs/2305.20002)
+  [[link]](https://arxiv.org/abs/2305.20002)
   - Che-Ping Tsai, Jiong Zhang, Eli Chien, Hsiang-Fu Yu, Cho-Jui Hsieh, and Pradeep Ravikumar. *ICML*, 2023.
 <br><br>
 - Theoretical and Practical Perspectives on what Influence Functions Do
