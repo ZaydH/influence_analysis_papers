@@ -201,6 +201,10 @@ If you found this repo or survey is useful, please cite our paper as follows:
 <details open>
 <summary>2023</summary>
 
+- Theoretical and Practical Perspectives on what Influence Functions Do
+  [[link]](https://arxiv.org/abs/2305.16971)
+  - Andrea Schioppa, Katja Filippova, Ivan Titov, and Polina Zablotskaia. 2023.
+<br><br>
 - TRAK: Attributing Model Behavior at Scale
   [[link]](https://arxiv.org/abs/2303.14186)
   [[code]](https://github.com/MadryLab/trak)
