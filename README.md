@@ -1,4 +1,4 @@
-## Training Data Influence Analysis &amp; Estimation Resources
+# Training Data Influence Analysis &amp; Estimation Resources
 
 [![paper](https://img.shields.io/badge/Paper-arxiv-b31b1b)](https://arxiv.org/abs/2212.04612)
 
