@@ -201,6 +201,10 @@ If you found this repo or survey is useful, please cite our paper as follows:
 <details open>
 <summary>2023</summary>
 
+- Representer Point Selection for Explaining Regularized High-dimensional Models
+  [[link](https://arxiv.org/abs/2305.20002)
+  - Che-Ping Tsai, Jiong Zhang, Eli Chien, Hsiang-Fu Yu, Cho-Jui Hsieh, and Pradeep Ravikumar. *ICML*, 2023.
+<br><br>
 - Theoretical and Practical Perspectives on what Influence Functions Do
   [[link]](https://arxiv.org/abs/2305.16971)
   - Andrea Schioppa, Katja Filippova, Ivan Titov, and Polina Zablotskaia. 2023.
