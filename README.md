@@ -46,6 +46,11 @@ If you found this repo or our survey useful, please cite our paper as follows:
 <details open>
 <summary>2023</summary>
 
+- Training Data Attribution for Diffusion Models
+  [[link]](https://arxiv.org/abs/2306.02174)
+  [[code]](https://github.com/zheng-dai/GenEns)
+  - Zheng Dai and David K Gifford. 2023.
+<br><br>
 - A Bayesian Perspective On Training Data Attribution
   [[link]](https://arxiv.org/abs/2305.19765)
   - Elisa Nguyen, Minjoon Seo, and Seong Joon Oh. 2023.
