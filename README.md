@@ -46,6 +46,10 @@ If you found this repo or our survey useful, please cite our paper as follows:
 <details open>
 <summary>2023</summary>
 
+- Faith-Shap: The Faithful Shapley Interaction Index
+  [[link]](https://arxiv.org/pdf/2203.00870.pdf)
+  - Che-Ping Tsai, Chih-Kuan Yeh, and Pradeep Ravikumar. *JMLR*, 2023.
+<br><br>
 - Training Data Attribution for Diffusion Models
   [[link]](https://arxiv.org/abs/2306.02174)
   [[code]](https://github.com/zheng-dai/GenEns)
@@ -129,6 +133,11 @@ If you found this repo or our survey useful, please cite our paper as follows:
 <details open>
 <summary>2020</summary>
 
+- The Shapley Taylor Interaction Index
+  [[link]](https://arxiv.org/abs/1902.05622)
+  [[video]](https://slideslive.com/38927583/shapleytaylor-interaction-index)
+  - Kedar Dhamdhere, Ashish Agarwal, and Mukund Sundararajan, *ICML*, 2020.
+<br><br>
 - What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation
   [[link]](https://arxiv.org/abs/2008.03703)
   [[code]](https://github.com/google-research/heldout-influence-estimation)
