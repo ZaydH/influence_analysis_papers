@@ -46,6 +46,11 @@ If you found this repo or our survey useful, please cite our paper as follows:
 <details open>
 <summary>2023</summary>
 
+- From Shapley Values to Generalized Additive Models and back
+  [[link]](https://arxiv.org/abs/2209.04012)
+  [[code]](https://github.com/tml-tuebingen/nshap)
+  - Sebastian Bordt and Ulrike von Luxburg. *AISTATS*, 2023.
+<br><br>
 - Faith-Shap: The Faithful Shapley Interaction Index
   [[link]](https://arxiv.org/pdf/2203.00870.pdf)
   - Che-Ping Tsai, Chih-Kuan Yeh, and Pradeep Ravikumar. *JMLR*, 2023.
