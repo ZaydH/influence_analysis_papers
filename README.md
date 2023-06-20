@@ -46,7 +46,12 @@ If you found this repo or our survey useful, please cite our paper as follows:
 <details open>
 <summary>2023</summary>
 
-- From Shapley Values to Generalized Additive Models and back
+- 2D-Shapley: A Framework for Fragmented Data Valuation
+  [[link]](https://openreview.net/forum?id=35kjF0gqjA)
+  [[code]](https://github.com/ruoxi-jia-group/2dshapley)
+  - Liu Zhihong, Hoang Anh Just, Xiangyu Chang, Xi Chen, and Ruoxi Jia. *ICML*, 2023.
+<br><br>
+- From Shapley Values to Generalized Additive Models and Back
   [[link]](https://arxiv.org/abs/2209.04012)
   [[code]](https://github.com/tml-tuebingen/nshap)
   - Sebastian Bordt and Ulrike von Luxburg. *AISTATS*, 2023.
