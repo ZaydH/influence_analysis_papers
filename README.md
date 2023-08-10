@@ -226,6 +226,9 @@ If you found this repo or our survey useful, please cite our paper as follows:
 <details open>
 <summary>2023</summary>
 
+- Studying Large Language Model Generalization with Influence Functions
+  [[link]](https://arxiv.org/abs/2308.03296)
+  - Roger Grosse, Juhan Bae, Cem Anil, Nelson Elhage, Alex Tamkin, Amirhossein Tajdini, Benoit Steiner, Dustin Li, Esin Durmus, Ethan Perez, Evan Hubinger, Kamilė Lukošiūtė, Karina Nguyen, Nicholas Joseph, Sam McCandlish, Jared Kaplan, and Samuel R. Bowman. 2023.
 - Representer Point Selection for Explaining Regularized High-dimensional Models
   [[link]](https://arxiv.org/abs/2305.20002)
   - Che-Ping Tsai, Jiong Zhang, Eli Chien, Hsiang-Fu Yu, Cho-Jui Hsieh, and Pradeep Ravikumar. *ICML*, 2023.
