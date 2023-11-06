@@ -46,6 +46,15 @@ If you found this repo or our survey useful, please cite our paper as follows:
 <details open>
 <summary>2023</summary>
 
+- Intriguing Properties of Data Attribution on Diffusion Models
+  [[link]](https://arxiv.org/abs/2311.00500)
+  [[code]](https://github.com/sail-sg/D-TRAK)
+  - Xiaosen Zheng, Tianyu Pang, Chao Du, Jing Jiang, and Min Lin. 2023.
+<br><br>
+- Threshold KNN-Shapley: A Linear-Time and Privacy-Friendly Approach to Data Valuation
+  [[link]](https://arxiv.org/abs/2308.15709)
+  - Jiachen T. Wang, Yuqing Zhu, Yu-Xiang Wang, Ruoxi Jia, and Prateek Mittal. 2023.
+<br><br>
 - 2D-Shapley: A Framework for Fragmented Data Valuation
   [[link]](https://openreview.net/forum?id=35kjF0gqjA)
   [[code]](https://github.com/ruoxi-jia-group/2dshapley)
@@ -539,6 +548,10 @@ If you found this repo or our survey useful, please cite our paper as follows:
 <details open>
 <summary>Fairness and Explainability</summary>
 
+- Exploring Practitioner Perspectives On Training Data Attribution Explanations
+  [[link]](https://arxiv.org/abs/2310.20477)
+  - Elisa Nguyen, Evgenii Kortukov, Jean Song, and Seong Joon Oh. 2023.
+<br><br>
 - Achieving Fairness at No Utility Cost via Data Reweighing with Influence
   [[link]](https://arxiv.org/abs/2202.00787)
   [[code]](https://github.com/brandeis-machine-learning/influence-fairness)
