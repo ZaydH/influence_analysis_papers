@@ -50,11 +50,6 @@ If you found this repo or our survey useful, please cite our paper as follows:
 <details open>
 <summary>2024</summary>
 
-- Intriguing Properties of Data Attribution on Diffusion Models
-  [[link]](https://arxiv.org/abs/2311.00500)
-  [[code]](https://github.com/sail-sg/D-TRAK)
-  - Xiaosen Zheng, Tianyu Pang, Chao Du, Jing Jiang, and Min Lin. *ICLR*, 2024.
-<br><br>
 - The Mirrored Influence Hypothesis: Efficient Data Influence Estimation by Harnessing Forward Passes
   [[link]](https://arxiv.org/abs/2402.08922)
   [[code]](https://github.com/ruoxi-jia-group/Forward-INF)
@@ -249,6 +244,20 @@ If you found this repo or our survey useful, please cite our paper as follows:
 
 **Click on the arrow** next to the year show/hide the corresponding papers.
 
+
+<details open>
+<summary>2024</summary>
+
+- Data Attribution for Diffusion Models: Timestep-induced Bias in Influence Estimation
+  [[link]](https://arxiv.org/abs/2401.09031)
+  - Tong Xie, Haoyu Li, Andrew Bai, and Cho-Jui Hsieh. 2024.
+<br><br>
+- Intriguing Properties of Data Attribution on Diffusion Models
+  [[link]](https://arxiv.org/abs/2311.00500)
+  [[code]](https://github.com/sail-sg/D-TRAK)
+  - Xiaosen Zheng, Tianyu Pang, Chao Du, Jing Jiang, and Min Lin. *ICLR*, 2024.
+
+</details>
 <details open>
 <summary>2023</summary>
 
