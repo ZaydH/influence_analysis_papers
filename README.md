@@ -36,7 +36,11 @@ If you found this repo or our survey useful, please cite our paper as follows:
 
 - Training Data Influence Analysis and Estimation: A Survey
   [[link]](https://arxiv.org/abs/2212.04612)
-  - Zayd Hammoudeh and Daniel Lowd. 2022.
+  - Zayd Hammoudeh and Daniel Lowd. *Machine Learning*, 2024.
+<br><br>
+- Unifying Corroborative and Contributive Attributions in Large Language Models
+  [[link]](https://arxiv.org/abs/2311.12233)
+  - Theodora Worledge, Judy Hanwen Shen, Nicole Meister, Caleb Winston, and Carlos Guestrin. *NeurIPS Attribution Workshop*, 2023.
 
 
 ## Retraining-Based Methods
@@ -44,13 +48,26 @@ If you found this repo or our survey useful, please cite our paper as follows:
 **Click on the arrow** next to the year show/hide the corresponding papers.
 
 <details open>
-<summary>2023</summary>
+<summary>2024</summary>
 
 - Intriguing Properties of Data Attribution on Diffusion Models
   [[link]](https://arxiv.org/abs/2311.00500)
   [[code]](https://github.com/sail-sg/D-TRAK)
-  - Xiaosen Zheng, Tianyu Pang, Chao Du, Jing Jiang, and Min Lin. 2023.
+  - Xiaosen Zheng, Tianyu Pang, Chao Du, Jing Jiang, and Min Lin. *ICLR*, 2024.
 <br><br>
+- The Mirrored Influence Hypothesis: Efficient Data Influence Estimation by Harnessing Forward Passes
+  [[link]](https://arxiv.org/abs/2402.08922)
+  [[code]](https://github.com/ruoxi-jia-group/Forward-INF)
+  - Myeongseob Ko, Feiyang Kang, Weiyan Shi, Ming Jin, Zhou Yu, and Ruoxi Jia. 2024.
+<br><br>
+- Thresholding Data Shapley for Data Cleansing Using Multi-Armed Bandits
+  [[link]](https://arxiv.org/abs/2402.08209)
+  - Hiroyuki Namba, Shota Horiguchi, Masaki Hamamoto, and Masashi Egi. 2024.
+
+</details>
+<details open>
+<summary>2023</summary>
+
 - Threshold KNN-Shapley: A Linear-Time and Privacy-Friendly Approach to Data Valuation
   [[link]](https://arxiv.org/abs/2308.15709)
   - Jiachen T. Wang, Yuqing Zhu, Yu-Xiang Wang, Ruoxi Jia, and Prateek Mittal. 2023.
@@ -238,6 +255,7 @@ If you found this repo or our survey useful, please cite our paper as follows:
 - Studying Large Language Model Generalization with Influence Functions
   [[link]](https://arxiv.org/abs/2308.03296)
   - Roger Grosse, Juhan Bae, Cem Anil, Nelson Elhage, Alex Tamkin, Amirhossein Tajdini, Benoit Steiner, Dustin Li, Esin Durmus, Ethan Perez, Evan Hubinger, Kamilė Lukošiūtė, Karina Nguyen, Nicholas Joseph, Sam McCandlish, Jared Kaplan, and Samuel R. Bowman. 2023.
+<br><br>
 - Representer Point Selection for Explaining Regularized High-dimensional Models
   [[link]](https://arxiv.org/abs/2305.20002)
   - Che-Ping Tsai, Jiong Zhang, Eli Chien, Hsiang-Fu Yu, Cho-Jui Hsieh, and Pradeep Ravikumar. *ICML*, 2023.
@@ -548,6 +566,10 @@ If you found this repo or our survey useful, please cite our paper as follows:
 <details open>
 <summary>Fairness and Explainability</summary>
 
+- Fair Classifiers Without Fair Training: An Influence-Guided Data Sampling Approach
+  [[link]](https://arxiv.org/abs/2402.12789)
+  - Jinlong Pang, Jialu Wang, Zhaowei Zhu, Yuanshun Yao, Chen Qian, and Yang Liu. 2024.
+<br><br>
 - Exploring Practitioner Perspectives On Training Data Attribution Explanations
   [[link]](https://arxiv.org/abs/2310.20477)
   - Elisa Nguyen, Evgenii Kortukov, Jean Song, and Seong Joon Oh. 2023.
